@@ -1,5 +1,5 @@
 ﻿// Write your Javascript code.
-//angular.module('webApp', ['ui.bootstrap']);
+angular.module('webApp', ['ui.bootstrap']);
 angular.module('webApp', [])
 .run(function () {
     console.log('Hello, world, from webApp!');
